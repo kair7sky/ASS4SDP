@@ -1,4 +1,4 @@
-# Kairkhanov Abylaikhan SE - 2221
+#  Kairkhanov Abylaikhan SE - 2221
 Assignment 4 for subject Software Design Pattern 
 
 Этот проект представляет собой систему уведомлений, реализованную с использованием паттернов "Observer" и "Factory" на языке программирования Java. 
